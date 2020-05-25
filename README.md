@@ -1,5 +1,7 @@
 # ExecrisePoem
 
+cran for water
+gray for bottle
 green for vege
 blue for floor
 yellow for sunshine
